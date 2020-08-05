@@ -35,7 +35,7 @@ public class ThirdActivity extends AppCompatActivity{
                     emailField.setError(null);
                 }
 
-                if (email != correctEmail && password != correctPwd){
+                if (!email.equals(correctEmail) && !password.equals(correctPwd)){
                     emailField.setError("Your email and password didn't registed");
                 } else {
                     Intent intent = new Intent(ThirdActivity.this, HomeActivity.class);
