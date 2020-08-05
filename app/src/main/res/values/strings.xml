@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Practice</string>
+    <string name="button_text_1">Pass Data</string>
+    <string name="button_text_2">Pass Data On Back</string>
+    <string name="button_text_3">UI Dan Logic</string>
+    <string name="greet_title">Selamat Datang</string>
+    <string name="btn_go_result">Next To Result</string>
+</resources>
