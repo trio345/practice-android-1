@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 public class ThirdActivity extends AppCompatActivity{
     String correctPwd = "12345678";
-    String correctEmail = "trios@gmail.com"
+    String correctEmail = "trios@gmail.com";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
