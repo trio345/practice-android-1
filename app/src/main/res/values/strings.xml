@@ -14,4 +14,8 @@
     <string name="btn_2">MENU 2</string>
     <string name="btn_menu3">MENU 3</string>
     <string name="btn_menu4">MENU 4</string>
+    <string name="tvTarget_1">TARGET 1</string>
+    <string name="titlePercent">0%</string>
+    <string name="titleTarget_2">TARGET 2</string>
+    <string name="titleTarget_3">TARGET 3</string>
 </resources>
