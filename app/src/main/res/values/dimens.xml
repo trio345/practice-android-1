@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="space_default">10dp</dimen>
 
+    <dimen name="tv22sp">20sp</dimen>
+    <dimen name="tv15sp">15sp</dimen>
+    <dimen name="tv12sp">12sp</dimen>
 </resources>

@@ -1,4 +1,4 @@
-package id.co.mdd.practice1;
+package id.co.mdd.practice1.day1.no_two;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import id.co.mdd.practice1.R;
 
 public class ResultActivity extends AppCompatActivity {
     Button btn_submit;

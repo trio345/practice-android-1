@@ -5,4 +5,13 @@
     <string name="button_text_3">UI Dan Logic</string>
     <string name="greet_title">Selamat Datang</string>
     <string name="btn_go_result">Next To Result</string>
+    <string name="tv_head">VUE MOVIE</string>
+    <string name="tvDeskripsi">Play now and enjoy life</string>
+    <string name="tvBuilder">vue studio</string>
+    <string name="btn_menu1">Menu 1</string>
+    <string name="tvFooter1">PELATIHAN ANDROID JAVA</string>
+    <string name="tvFooterYear">Agustus 2020</string>
+    <string name="btn_2">MENU 2</string>
+    <string name="btn_menu3">MENU 3</string>
+    <string name="btn_menu4">MENU 4</string>
 </resources>

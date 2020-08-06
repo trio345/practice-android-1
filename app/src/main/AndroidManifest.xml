@@ -9,18 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".HomeActivity"></activity>
-        <activity android:name=".ResultActivity" />
-        <activity android:name=".DetailActivity" />
-        <activity android:name=".ThirdActivity" />
-        <activity android:name=".SecondActivity" />
-        <activity android:name=".FirstActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".TemplateActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".day1.no_three.HomeActivity" />
+        <activity android:name=".day1.no_two.ResultActivity" />
+        <activity android:name=".day1.no_one.DetailActivity" />
+        <activity android:name=".day1.no_three.ThirdActivity" />
+        <activity android:name=".day1.no_two.SecondActivity" />
+        <activity android:name=".day1.no_one.FirstActivity" />
+        <activity android:name=".day1.MainActivity">
+
         </activity>
     </application>
 

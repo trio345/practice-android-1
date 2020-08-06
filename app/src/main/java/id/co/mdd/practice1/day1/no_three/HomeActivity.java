@@ -1,8 +1,10 @@
-package id.co.mdd.practice1;
+package id.co.mdd.practice1.day1.no_three;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import id.co.mdd.practice1.R;
 
 public class HomeActivity extends AppCompatActivity {
 

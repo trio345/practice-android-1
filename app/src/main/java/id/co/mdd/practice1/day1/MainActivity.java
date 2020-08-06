@@ -1,4 +1,4 @@
-package id.co.mdd.practice1;
+package id.co.mdd.practice1.day1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import id.co.mdd.practice1.R;
+import id.co.mdd.practice1.day1.no_one.FirstActivity;
+import id.co.mdd.practice1.day1.no_three.ThirdActivity;
+import id.co.mdd.practice1.day1.no_two.SecondActivity;
 
 public class MainActivity extends AppCompatActivity {
 
